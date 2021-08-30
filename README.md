@@ -78,7 +78,7 @@ minutes and leave it well-documented this way.
 A prototype design of same to create process workflow
 
 ![No alt text provided for this
-image]('./images/media/image2.png)
+image](images/media/image2.png)
 
 **Deploy process workflow as a low-code/no-code app**
 
@@ -90,7 +90,7 @@ internal structure to hold the data, understand the process diagram, and
 verify permissions, among other things.
 
 ![No alt text provided for this
-image]('./images/media/image3.png)
+image](images/media/image3.png)
 
 Business units may use low-code / no-code platforms to create workflow
 and BPM apps without having to programme. With a press a button to
